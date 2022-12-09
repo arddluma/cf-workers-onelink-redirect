@@ -24,9 +24,11 @@ After installation authenticate with wrangler CLI using this command
 `wrangler login` [docs](https://developers.cloudflare.com/workers/wrangler/commands/#login)
 
 In wrangler.toml update `account_id` and `zone_id` 
+
 To find out CloudFlare account id and zone id checkout [docs](https://developers.cloudflare.com/fundamentals/get-started/basic-tasks/find-account-and-zone-ids/)
 
 In order for this to work you should have an active DNS record proxied through CloudFlare
+
 Update route to desired subdomain. e.g `get.ardd.cloud`
 
 ## Deploy
