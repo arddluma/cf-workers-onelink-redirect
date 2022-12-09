@@ -8,7 +8,7 @@ If it is Android redirects to playstore link, if iOS goes to appstore otherwise 
 
 ## Getting Started
 
-This on CloudFlare workers you need to have installed Wrangler CLI
+To deploy this on CloudFlare workers you need to have installed Wrangler CLI
 
 ```
 npm install -g wrangler
@@ -17,7 +17,7 @@ npm install -g wrangler
 
 ## Setup
 
-Update `playstoreURL`, `appstoreUR`L and `fallbackURL` as per your needs
+Update `playstoreURL`, `appstoreURL` and `fallbackURL` as per your needs
 
 After installation authenticate with wrangler CLI using this command
 
