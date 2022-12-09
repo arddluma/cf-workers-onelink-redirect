@@ -1,0 +1,8 @@
+name = "cf-workers-onelink-redirect"
+type = "javascript"
+
+account_id = "CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
+route = "get.ardd.cloud"
+zone_id = "CLOUDFLARE_DOMAIN_ZONE_ID"
+compatibility_date = "2022-07-21"
